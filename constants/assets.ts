@@ -1,0 +1,22 @@
+import item01 from "../assets/images/1.png";
+import item02 from "../assets/images/2.png";
+import item03 from "../assets/images/3.png";
+import item04 from "../assets/images/4.png";
+import item05 from "../assets/images/5.png";
+import item06 from "../assets/images/6.png";
+import item07 from "../assets/images/7.png";
+import item08 from "../assets/images/8.webp";
+import item09 from "../assets/images/9.webp";
+import item10 from "../assets/images/10.png";
+import item11 from "../assets/images/11.webp";
+import item12 from "../assets/images/12.png";
+import item13 from "../assets/images/13.png";
+import item14 from "../assets/images/14.png";
+import item15 from "../assets/images/15.png";
+import item16 from "../assets/images/16.png";
+import item17 from "../assets/images/17.png";
+import item18 from "../assets/images/18.png";
+import item19 from "../assets/images/19.png";
+import item20 from "../assets/images/20.png";
+
+export default { item01,item02,	item03,	item04,	item05,	item06,	item07,	item08,	item09,	item10,	item11,	item12,	item13,	item14,	item15,	item16,	item17,	item18,	item19,	item20,};
