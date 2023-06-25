@@ -18,7 +18,7 @@ export const products = [
 	{
 		id: "3",
 		title: "Canon EOS Rebel T7 DSLR Camera with 18-55mm Lens | Built-in Wi-Fi | 24.1 MP CMOS Sensor | DIGIC 4+ Image Processor and Full HD Videos",
-		price: 55.99,
+		price: 550.99,
 		category: "electronics",
 		image: assets.item03,
 	},
@@ -130,7 +130,7 @@ export const products = [
 	{
 		id: "19",
 		title: "Crop Sweater",
-		price: 7.95,
+		price: 77.95,
 		category: "women's clothing",
 		image: assets.item19,
 	},
